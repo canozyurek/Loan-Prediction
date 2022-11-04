@@ -1,4 +1,6 @@
-fastapi==0.85.1
+category_encoders==2.5.1.post0
+fastapi==0.85.2
 pycaret==2.2.3
 pydantic==1.9.0
 uvicorn==0.16.0
+autofeat==2.0.10
